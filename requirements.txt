@@ -1,0 +1,5 @@
+django~=4.1.2
+channels~=3.0.5
+asgiref~=3.5.2
+python-dotenv~=1.0.1
+dj-config-url~=0.1.1
